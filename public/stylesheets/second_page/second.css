@@ -62,15 +62,17 @@
 .console
 {
   font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
-    padding-left: 950px;
-    padding-top: 200px;
-    font-style: 'Comic Sans MS';
+    padding-left: 850px;
+    padding-top: 150px;
+    font-style: 'italic';
 }
 #caption{
-    font-family: "DejaVu Sans Mono";
+    font-family: "Comic Sans MS";
     padding-top: 200px;
-    font-style: 'Comic Sans MS';
-    /*padding-left: 950px;*/
+    font-weight: bold;
+    color:  #A9A9A9;
+    /*background: rgba(255,230,0,0.5);*/
+    /*padding-left: 1000px;*/
 }
 
 /*that menu circle*/

@@ -43,7 +43,8 @@ html{
   font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
 }
 #caption{
-	font-family: "DejaVu Sans Mono";
+	font-family: "Comic Sans MS";
+	font-weight: bold;
 }
 #f1{
 	color: #00b215;
