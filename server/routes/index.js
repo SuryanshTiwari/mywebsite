@@ -7,7 +7,7 @@ module.exports = (app) => {
   }));
 
  app.get('/main', function(req, res){
-    res.render('sec.html');
+    res.render('./second_page/main.html');
  });
  app.get('/', function(req, res){
  	app.render('index.html');
