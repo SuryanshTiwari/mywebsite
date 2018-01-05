@@ -11,7 +11,7 @@ $(document).ready(function() {
         $(document).keypress(function (e) {
             if (e.which == 13) {
                 testErasingEffect().then(function(){
-                    window.location.replace("http://172.17.28.120:3000/main");
+                    window.location.replace("http://suryanshtiwari.cleverapps.io/main");
                 });
             }
     });
